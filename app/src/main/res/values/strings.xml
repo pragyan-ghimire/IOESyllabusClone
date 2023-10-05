@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">IOE Syllabus</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="syllabus">Syllabus</string>
+    <string name="syllabus_description">This is syllabus section</string>
+    <string name="notes_description">This is notes section</string>
+    <string name="notes">Notes</string>
+    <string name="question_description">This is questions section</string>
+    <string name="questions_papers">Questions \nPapers</string>
+    <string name="formulae">Formulae</string>
+    <string name="formulae_description">This is formulae section</string>
+    <string name="msc_syllabus_description">This is MSC. syllabus section</string>
+    <string name="msc_syllabus">MSC. Syllabus</string>
+    <string name="videos">Videos</string>
+    <string name="videos_description">This is Videos section</string>
+    <string name="nec_license">NEC License</string>
+    <string name="nec_license_description">This is NEC License section</string>
+    <string name="be_barch_booklet">BE-BArch \nBooklet</string>
+    <string name="be_brach_description">This is BE-BArch Booklet section</string>
+    <string name="loksewa_syllabus">Loksewa \nSyllabus</string>
+    <string name="loksewa_description">This is loksewa syllabus section</string>
+
+
+    -----------syllabus activity-----------------
+    <string name="ioe_syllabus">IOE Syllabus</string>
+    <string name="copyright_copy_2023">Copyright&#169; 2023</string>
+    <string-array name="department_list">
+        <item>Computer Engineering</item>
+        <item>Architecture Engineering</item>
+        <item>Civil Engineering</item>
+        <item>Electrical Engineering</item>
+        <item>Mechanical Engineering</item>
+        <item>Electronics &amp; Communication Engineering</item>
+    </string-array>
+</resources>
